@@ -1,0 +1,15 @@
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\bin\Debug\net8.0\01W3Tutorial.exe
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\bin\Debug\net8.0\01W3Tutorial.deps.json
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\bin\Debug\net8.0\01W3Tutorial.runtimeconfig.json
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\bin\Debug\net8.0\01W3Tutorial.dll
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\bin\Debug\net8.0\01W3Tutorial.pdb
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.AssemblyInfoInputs.cache
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.AssemblyInfo.cs
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.dll
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\refint\01W3Tutorial.dll
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.pdb
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.genruntimeconfig.cache
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\ref\01W3Tutorial.dll
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\01W3Tutorial\obj\Debug\net8.0\01W3Tutorial.sourcelink.json
